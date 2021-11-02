@@ -5,7 +5,8 @@
   --font-size:16px;
   --main-color:#FFFFFF;
   --second-color:#222;
-  --main-modal-color:rgba(247,222,30,0.85);
+  /* --main-modal-color:rgba(247,222,30,0.85); */
+  --main-modal-color:red;
   --second-modal-color:rgba(34,34,34,0.85);
   --container-width:1200px;
 }
